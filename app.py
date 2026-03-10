@@ -180,4 +180,4 @@ def analyze_intonation(audio_path, pitch_floor, pitch_ceiling):
 
 # Подвал
 st.markdown("---")
-st.caption("🎓 Для студентов-лингвистов • Метод Filtered Autocorrelation (Praat)")
+st.caption("🎓 Для студентов-лингвистов • Метод Filtered Autocorrelation (Praat)") 
